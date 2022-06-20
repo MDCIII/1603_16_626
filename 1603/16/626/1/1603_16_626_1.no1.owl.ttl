@@ -27,65 +27,78 @@
 <urn:mdciii:1603:16:626:1:1>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:626:1:1" .
+    rdfs:label "1603:16:626:1:1" ;
+    skos:prefLabel "Ainaro"@eng-Latn .
 
 <urn:mdciii:1603:16:626:1:10>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:626:1:10" .
+    rdfs:label "1603:16:626:1:10" ;
+    skos:prefLabel "Manufahi"@eng-Latn .
 
 <urn:mdciii:1603:16:626:1:11>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:626:1:11" .
+    rdfs:label "1603:16:626:1:11" ;
+    skos:prefLabel "Manatuto"@eng-Latn .
 
 <urn:mdciii:1603:16:626:1:12>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:626:1:12" .
+    rdfs:label "1603:16:626:1:12" ;
+    skos:prefLabel "Oecussi"@eng-Latn .
 
 <urn:mdciii:1603:16:626:1:13>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:626:1:13" .
+    rdfs:label "1603:16:626:1:13" ;
+    skos:prefLabel "Viqueque"@eng-Latn .
 
 <urn:mdciii:1603:16:626:1:2>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:626:1:2" .
+    rdfs:label "1603:16:626:1:2" ;
+    skos:prefLabel "Aileu"@eng-Latn .
 
 <urn:mdciii:1603:16:626:1:3>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:626:1:3" .
+    rdfs:label "1603:16:626:1:3" ;
+    skos:prefLabel "Baucau"@eng-Latn .
 
 <urn:mdciii:1603:16:626:1:4>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:626:1:4" .
+    rdfs:label "1603:16:626:1:4" ;
+    skos:prefLabel "Bobonaro"@eng-Latn .
 
 <urn:mdciii:1603:16:626:1:5>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:626:1:5" .
+    rdfs:label "1603:16:626:1:5" ;
+    skos:prefLabel "Covalima"@eng-Latn .
 
 <urn:mdciii:1603:16:626:1:6>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:626:1:6" .
+    rdfs:label "1603:16:626:1:6" ;
+    skos:prefLabel "Dili"@eng-Latn .
 
 <urn:mdciii:1603:16:626:1:7>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:626:1:7" .
+    rdfs:label "1603:16:626:1:7" ;
+    skos:prefLabel "Ermera"@eng-Latn .
 
 <urn:mdciii:1603:16:626:1:8>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:626:1:8" .
+    rdfs:label "1603:16:626:1:8" ;
+    skos:prefLabel "Liquiçá"@eng-Latn .
 
 <urn:mdciii:1603:16:626:1:9>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:626:1:9" .
+    rdfs:label "1603:16:626:1:9" ;
+    skos:prefLabel "Lautém"@eng-Latn .
 

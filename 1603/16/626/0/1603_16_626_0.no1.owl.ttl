@@ -17,5 +17,6 @@
 
 <urn:mdciii:1603:16:626:0>
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:626:0" .
+    rdfs:label "1603:16:626:0" ;
+    skos:prefLabel "Timor-Leste"@eng-Latn .
 
