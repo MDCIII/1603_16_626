@@ -1,0 +1,349 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<urn:mdciii:1603:16()>
+    a skos:ConceptScheme ;
+    rdfs:label "(1603:16)" .
+
+<urn:mdciii:1603:16:626()>
+    a skos:Collection ;
+    rdfs:label "(1603:16:626)" ;
+    skos:inScheme <urn:mdciii:1603:16()> ;
+    skos:member <urn:mdciii:1603:16:626:2()> .
+
+<urn:mdciii:1603:16:626:2()>
+    a skos:Collection ;
+    rdfs:label "(1603:16:626:2)" ;
+    skos:member <urn:mdciii:1603:16:626:2:1001>, <urn:mdciii:1603:16:626:2:1002>, <urn:mdciii:1603:16:626:2:1003>, <urn:mdciii:1603:16:626:2:1004>, <urn:mdciii:1603:16:626:2:102>, <urn:mdciii:1603:16:626:2:103>, <urn:mdciii:1603:16:626:2:104>, <urn:mdciii:1603:16:626:2:1101>, <urn:mdciii:1603:16:626:2:1102>, <urn:mdciii:1603:16:626:2:1103>, <urn:mdciii:1603:16:626:2:1104>, <urn:mdciii:1603:16:626:2:1105>, <urn:mdciii:1603:16:626:2:1106>, <urn:mdciii:1603:16:626:2:1201>, <urn:mdciii:1603:16:626:2:1202>, <urn:mdciii:1603:16:626:2:1203>, <urn:mdciii:1603:16:626:2:1204>, <urn:mdciii:1603:16:626:2:1301>, <urn:mdciii:1603:16:626:2:1302>, <urn:mdciii:1603:16:626:2:1303>, <urn:mdciii:1603:16:626:2:1304>, <urn:mdciii:1603:16:626:2:1305>, <urn:mdciii:1603:16:626:2:201>, <urn:mdciii:1603:16:626:2:202>, <urn:mdciii:1603:16:626:2:203>, <urn:mdciii:1603:16:626:2:204>, <urn:mdciii:1603:16:626:2:301>, <urn:mdciii:1603:16:626:2:302>, <urn:mdciii:1603:16:626:2:303>, <urn:mdciii:1603:16:626:2:304>, <urn:mdciii:1603:16:626:2:305>, <urn:mdciii:1603:16:626:2:306>, <urn:mdciii:1603:16:626:2:401>, <urn:mdciii:1603:16:626:2:402>, <urn:mdciii:1603:16:626:2:403>, <urn:mdciii:1603:16:626:2:404>, <urn:mdciii:1603:16:626:2:405>, <urn:mdciii:1603:16:626:2:406>, <urn:mdciii:1603:16:626:2:501>, <urn:mdciii:1603:16:626:2:502>, <urn:mdciii:1603:16:626:2:503>, <urn:mdciii:1603:16:626:2:504>, <urn:mdciii:1603:16:626:2:505>, <urn:mdciii:1603:16:626:2:506>, <urn:mdciii:1603:16:626:2:507>, <urn:mdciii:1603:16:626:2:601>, <urn:mdciii:1603:16:626:2:602>, <urn:mdciii:1603:16:626:2:603>, <urn:mdciii:1603:16:626:2:604>, <urn:mdciii:1603:16:626:2:605>, <urn:mdciii:1603:16:626:2:606>, <urn:mdciii:1603:16:626:2:701>, <urn:mdciii:1603:16:626:2:702>, <urn:mdciii:1603:16:626:2:703>, <urn:mdciii:1603:16:626:2:704>, <urn:mdciii:1603:16:626:2:705>, <urn:mdciii:1603:16:626:2:801>, <urn:mdciii:1603:16:626:2:802>, <urn:mdciii:1603:16:626:2:803>, <urn:mdciii:1603:16:626:2:901>, <urn:mdciii:1603:16:626:2:902>, <urn:mdciii:1603:16:626:2:903>, <urn:mdciii:1603:16:626:2:904>, <urn:mdciii:1603:16:626:2:905> .
+
+<urn:mdciii:1603:16:626:2(1)>
+    a owl:Ontology .
+
+<urn:mdciii:1603:16:626:2:1001>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1001" ;
+    skos:prefLabel "Same"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1002>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1002" ;
+    skos:prefLabel "Alas"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1003>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1003" ;
+    skos:prefLabel "Fatuberlio"@eng-Latn, "Fatuberliu"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1004>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1004" ;
+    skos:prefLabel "Turiscai"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:101>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:101" ;
+    skos:prefLabel "Ainaro"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:102>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:102" ;
+    skos:prefLabel "Hato-Builico"@eng-Latn, "Hatu-Builico"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:103>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:103" ;
+    skos:prefLabel "Maubisse"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:104>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:104" ;
+    skos:prefLabel "Hato-Udo"@eng-Latn, "Hatu-Udo"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1101>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1101" ;
+    skos:prefLabel "Manatuto"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1102>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1102" ;
+    skos:prefLabel "Laleia"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1103>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1103" ;
+    skos:prefLabel "Laclo"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1104>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1104" ;
+    skos:prefLabel "Soibada"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1105>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1105" ;
+    skos:prefLabel "Barique/Natarbora"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1106>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1106" ;
+    skos:prefLabel "Laclubar"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1201>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1201" ;
+    skos:prefLabel "Pante Macasar"@eng-Latn, "Pante Macassar"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1202>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1202" ;
+    skos:prefLabel "Nitibe"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1203>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1203" ;
+    skos:prefLabel "Oesilo"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1204>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1204" ;
+    skos:prefLabel "Passabe"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1301>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1301" ;
+    skos:prefLabel "Uatucarbau"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1302>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1302" ;
+    skos:prefLabel "Ossu"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1303>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1303" ;
+    skos:prefLabel "Uato-Lari"@eng-Latn, "Watulari"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1304>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1304" ;
+    skos:prefLabel "Viqueque"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:1305>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:1305" ;
+    skos:prefLabel "Lacluta"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:201>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:201" ;
+    skos:prefLabel "Aileu Vila"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:202>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:202" ;
+    skos:prefLabel "Lequidoe"@eng-Latn, "Liquidoe"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:203>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:203" ;
+    skos:prefLabel "Remexio"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:204>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:204" ;
+    skos:prefLabel "Laulara"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:301>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:301" ;
+    skos:prefLabel "Baucau"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:302>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:302" ;
+    skos:prefLabel "Laga"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:303>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:303" ;
+    skos:prefLabel "Quelicai"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:304>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:304" ;
+    skos:prefLabel "Baguia"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:305>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:305" ;
+    skos:prefLabel "Vemase"@eng-Latn, "Vemasse"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:306>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:306" ;
+    skos:prefLabel "Venilale"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:401>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:401" ;
+    skos:prefLabel "Maliana"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:402>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:402" ;
+    skos:prefLabel "Cailaco"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:403>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:403" ;
+    skos:prefLabel "Balibo"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:404>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:404" ;
+    skos:prefLabel "Atabae"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:405>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:405" ;
+    skos:prefLabel "Lolotoe"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:406>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:406" ;
+    skos:prefLabel "Bobonaro"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:501>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:501" ;
+    skos:prefLabel "Fatululic"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:502>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:502" ;
+    skos:prefLabel "Fatumean"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:503>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:503" ;
+    skos:prefLabel "Fohorem"@eng-Latn, "Forohem"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:504>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:504" ;
+    skos:prefLabel "Maucatar"@eng-Latn, "Maukatar"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:505>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:505" ;
+    skos:prefLabel "Suai"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:506>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:506" ;
+    skos:prefLabel "Tilomar"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:507>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:507" ;
+    skos:prefLabel "Zumalai"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:601>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:601" ;
+    skos:prefLabel "Vera Cruz"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:602>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:602" ;
+    skos:prefLabel "Nain Feto"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:603>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:603" ;
+    skos:prefLabel "Metinaro"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:604>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:604" ;
+    skos:prefLabel "Atauro"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:605>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:605" ;
+    skos:prefLabel "Dom Aleixo"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:606>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:606" ;
+    skos:prefLabel "Cristo Rei"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:701>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:701" ;
+    skos:prefLabel "Railaco"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:702>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:702" ;
+    skos:prefLabel "Ermera"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:703>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:703" ;
+    skos:prefLabel "Letefoho"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:704>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:704" ;
+    skos:prefLabel "Atsabe"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:705>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:705" ;
+    skos:prefLabel "Hatolia"@eng-Latn, "Hatulia"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:801>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:801" ;
+    skos:prefLabel "Bazartete"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:802>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:802" ;
+    skos:prefLabel "Liquiça"@eng-Latn, "Liquiçá"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:803>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:803" ;
+    skos:prefLabel "Maubara"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:901>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:901" ;
+    skos:prefLabel "Lospalos"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:902>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:902" ;
+    skos:prefLabel "Lautém"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:903>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:903" ;
+    skos:prefLabel "Iliomar"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:904>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:904" ;
+    skos:prefLabel "Luro"@eng-Latn .
+
+<urn:mdciii:1603:16:626:2:905>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:626:2:905" ;
+    skos:prefLabel "Tutuala"@eng-Latn .
+
