@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:1> ;
     skos:prefLabel "Ainaro"@eng-Latn ;
-    wdata:q7200235 "TL0101" ;
+    wdata:Q7200235 "TL0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -111,7 +111,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:10> ;
     skos:prefLabel "Same"@eng-Latn ;
-    wdata:q7200235 "TL1001" ;
+    wdata:Q7200235 "TL1001" ;
 .
 
 <urn:mdciii:1603:16:626:2:1002>
@@ -123,7 +123,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:10> ;
     skos:prefLabel "Alas"@eng-Latn ;
-    wdata:q7200235 "TL1002" ;
+    wdata:Q7200235 "TL1002" ;
 .
 
 <urn:mdciii:1603:16:626:2:1003>
@@ -137,7 +137,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fatuberlio"@eng-Latn ,
         "Fatuberliu"@eng-Latn ;
-    wdata:q7200235 "TL1003" ;
+    wdata:Q7200235 "TL1003" ;
 .
 
 <urn:mdciii:1603:16:626:2:1004>
@@ -149,7 +149,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:10> ;
     skos:prefLabel "Turiscai"@eng-Latn ;
-    wdata:q7200235 "TL1004" ;
+    wdata:Q7200235 "TL1004" ;
 .
 
 <urn:mdciii:1603:16:626:2:102>
@@ -163,7 +163,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hato-Builico"@eng-Latn ,
         "Hatu-Builico"@eng-Latn ;
-    wdata:q7200235 "TL0102" ;
+    wdata:Q7200235 "TL0102" ;
 .
 
 <urn:mdciii:1603:16:626:2:103>
@@ -175,7 +175,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:1> ;
     skos:prefLabel "Maubisse"@eng-Latn ;
-    wdata:q7200235 "TL0103" ;
+    wdata:Q7200235 "TL0103" ;
 .
 
 <urn:mdciii:1603:16:626:2:104>
@@ -189,7 +189,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hato-Udo"@eng-Latn ,
         "Hatu-Udo"@eng-Latn ;
-    wdata:q7200235 "TL0104" ;
+    wdata:Q7200235 "TL0104" ;
 .
 
 <urn:mdciii:1603:16:626:2:1101>
@@ -201,7 +201,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:11> ;
     skos:prefLabel "Manatuto"@eng-Latn ;
-    wdata:q7200235 "TL1101" ;
+    wdata:Q7200235 "TL1101" ;
 .
 
 <urn:mdciii:1603:16:626:2:1102>
@@ -213,7 +213,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:11> ;
     skos:prefLabel "Laleia"@eng-Latn ;
-    wdata:q7200235 "TL1102" ;
+    wdata:Q7200235 "TL1102" ;
 .
 
 <urn:mdciii:1603:16:626:2:1103>
@@ -225,7 +225,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:11> ;
     skos:prefLabel "Laclo"@eng-Latn ;
-    wdata:q7200235 "TL1103" ;
+    wdata:Q7200235 "TL1103" ;
 .
 
 <urn:mdciii:1603:16:626:2:1104>
@@ -237,7 +237,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:11> ;
     skos:prefLabel "Soibada"@eng-Latn ;
-    wdata:q7200235 "TL1104" ;
+    wdata:Q7200235 "TL1104" ;
 .
 
 <urn:mdciii:1603:16:626:2:1105>
@@ -249,7 +249,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:11> ;
     skos:prefLabel "Barique/Natarbora"@eng-Latn ;
-    wdata:q7200235 "TL1105" ;
+    wdata:Q7200235 "TL1105" ;
 .
 
 <urn:mdciii:1603:16:626:2:1106>
@@ -261,7 +261,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:11> ;
     skos:prefLabel "Laclubar"@eng-Latn ;
-    wdata:q7200235 "TL1106" ;
+    wdata:Q7200235 "TL1106" ;
 .
 
 <urn:mdciii:1603:16:626:2:1201>
@@ -275,7 +275,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pante Macasar"@eng-Latn ,
         "Pante Macassar"@eng-Latn ;
-    wdata:q7200235 "TL1201" ;
+    wdata:Q7200235 "TL1201" ;
 .
 
 <urn:mdciii:1603:16:626:2:1202>
@@ -287,7 +287,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:12> ;
     skos:prefLabel "Nitibe"@eng-Latn ;
-    wdata:q7200235 "TL1202" ;
+    wdata:Q7200235 "TL1202" ;
 .
 
 <urn:mdciii:1603:16:626:2:1203>
@@ -299,7 +299,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:12> ;
     skos:prefLabel "Oesilo"@eng-Latn ;
-    wdata:q7200235 "TL1203" ;
+    wdata:Q7200235 "TL1203" ;
 .
 
 <urn:mdciii:1603:16:626:2:1204>
@@ -311,7 +311,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:12> ;
     skos:prefLabel "Passabe"@eng-Latn ;
-    wdata:q7200235 "TL1204" ;
+    wdata:Q7200235 "TL1204" ;
 .
 
 <urn:mdciii:1603:16:626:2:1301>
@@ -323,7 +323,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:13> ;
     skos:prefLabel "Uatucarbau"@eng-Latn ;
-    wdata:q7200235 "TL1301" ;
+    wdata:Q7200235 "TL1301" ;
 .
 
 <urn:mdciii:1603:16:626:2:1302>
@@ -335,7 +335,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:13> ;
     skos:prefLabel "Ossu"@eng-Latn ;
-    wdata:q7200235 "TL1302" ;
+    wdata:Q7200235 "TL1302" ;
 .
 
 <urn:mdciii:1603:16:626:2:1303>
@@ -349,7 +349,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Uato-Lari"@eng-Latn ,
         "Watulari"@eng-Latn ;
-    wdata:q7200235 "TL1303" ;
+    wdata:Q7200235 "TL1303" ;
 .
 
 <urn:mdciii:1603:16:626:2:1304>
@@ -361,7 +361,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:13> ;
     skos:prefLabel "Viqueque"@eng-Latn ;
-    wdata:q7200235 "TL1304" ;
+    wdata:Q7200235 "TL1304" ;
 .
 
 <urn:mdciii:1603:16:626:2:1305>
@@ -373,7 +373,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:13> ;
     skos:prefLabel "Lacluta"@eng-Latn ;
-    wdata:q7200235 "TL1305" ;
+    wdata:Q7200235 "TL1305" ;
 .
 
 <urn:mdciii:1603:16:626:2:201>
@@ -385,7 +385,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:2> ;
     skos:prefLabel "Aileu Vila"@eng-Latn ;
-    wdata:q7200235 "TL0201" ;
+    wdata:Q7200235 "TL0201" ;
 .
 
 <urn:mdciii:1603:16:626:2:202>
@@ -399,7 +399,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lequidoe"@eng-Latn ,
         "Liquidoe"@eng-Latn ;
-    wdata:q7200235 "TL0202" ;
+    wdata:Q7200235 "TL0202" ;
 .
 
 <urn:mdciii:1603:16:626:2:203>
@@ -411,7 +411,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:2> ;
     skos:prefLabel "Remexio"@eng-Latn ;
-    wdata:q7200235 "TL0203" ;
+    wdata:Q7200235 "TL0203" ;
 .
 
 <urn:mdciii:1603:16:626:2:204>
@@ -423,7 +423,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:2> ;
     skos:prefLabel "Laulara"@eng-Latn ;
-    wdata:q7200235 "TL0204" ;
+    wdata:Q7200235 "TL0204" ;
 .
 
 <urn:mdciii:1603:16:626:2:301>
@@ -435,7 +435,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:3> ;
     skos:prefLabel "Baucau"@eng-Latn ;
-    wdata:q7200235 "TL0301" ;
+    wdata:Q7200235 "TL0301" ;
 .
 
 <urn:mdciii:1603:16:626:2:302>
@@ -447,7 +447,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:3> ;
     skos:prefLabel "Laga"@eng-Latn ;
-    wdata:q7200235 "TL0302" ;
+    wdata:Q7200235 "TL0302" ;
 .
 
 <urn:mdciii:1603:16:626:2:303>
@@ -459,7 +459,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:3> ;
     skos:prefLabel "Quelicai"@eng-Latn ;
-    wdata:q7200235 "TL0303" ;
+    wdata:Q7200235 "TL0303" ;
 .
 
 <urn:mdciii:1603:16:626:2:304>
@@ -471,7 +471,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:3> ;
     skos:prefLabel "Baguia"@eng-Latn ;
-    wdata:q7200235 "TL0304" ;
+    wdata:Q7200235 "TL0304" ;
 .
 
 <urn:mdciii:1603:16:626:2:305>
@@ -485,7 +485,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vemase"@eng-Latn ,
         "Vemasse"@eng-Latn ;
-    wdata:q7200235 "TL0305" ;
+    wdata:Q7200235 "TL0305" ;
 .
 
 <urn:mdciii:1603:16:626:2:306>
@@ -497,7 +497,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:3> ;
     skos:prefLabel "Venilale"@eng-Latn ;
-    wdata:q7200235 "TL0306" ;
+    wdata:Q7200235 "TL0306" ;
 .
 
 <urn:mdciii:1603:16:626:2:401>
@@ -509,7 +509,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:4> ;
     skos:prefLabel "Maliana"@eng-Latn ;
-    wdata:q7200235 "TL0401" ;
+    wdata:Q7200235 "TL0401" ;
 .
 
 <urn:mdciii:1603:16:626:2:402>
@@ -521,7 +521,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:4> ;
     skos:prefLabel "Cailaco"@eng-Latn ;
-    wdata:q7200235 "TL0402" ;
+    wdata:Q7200235 "TL0402" ;
 .
 
 <urn:mdciii:1603:16:626:2:403>
@@ -533,7 +533,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:4> ;
     skos:prefLabel "Balibo"@eng-Latn ;
-    wdata:q7200235 "TL0403" ;
+    wdata:Q7200235 "TL0403" ;
 .
 
 <urn:mdciii:1603:16:626:2:404>
@@ -545,7 +545,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:4> ;
     skos:prefLabel "Atabae"@eng-Latn ;
-    wdata:q7200235 "TL0404" ;
+    wdata:Q7200235 "TL0404" ;
 .
 
 <urn:mdciii:1603:16:626:2:405>
@@ -557,7 +557,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:4> ;
     skos:prefLabel "Lolotoe"@eng-Latn ;
-    wdata:q7200235 "TL0405" ;
+    wdata:Q7200235 "TL0405" ;
 .
 
 <urn:mdciii:1603:16:626:2:406>
@@ -569,7 +569,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:4> ;
     skos:prefLabel "Bobonaro"@eng-Latn ;
-    wdata:q7200235 "TL0406" ;
+    wdata:Q7200235 "TL0406" ;
 .
 
 <urn:mdciii:1603:16:626:2:501>
@@ -581,7 +581,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:5> ;
     skos:prefLabel "Fatululic"@eng-Latn ;
-    wdata:q7200235 "TL0501" ;
+    wdata:Q7200235 "TL0501" ;
 .
 
 <urn:mdciii:1603:16:626:2:502>
@@ -593,7 +593,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:5> ;
     skos:prefLabel "Fatumean"@eng-Latn ;
-    wdata:q7200235 "TL0502" ;
+    wdata:Q7200235 "TL0502" ;
 .
 
 <urn:mdciii:1603:16:626:2:503>
@@ -607,7 +607,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fohorem"@eng-Latn ,
         "Forohem"@eng-Latn ;
-    wdata:q7200235 "TL0503" ;
+    wdata:Q7200235 "TL0503" ;
 .
 
 <urn:mdciii:1603:16:626:2:504>
@@ -621,7 +621,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Maucatar"@eng-Latn ,
         "Maukatar"@eng-Latn ;
-    wdata:q7200235 "TL0504" ;
+    wdata:Q7200235 "TL0504" ;
 .
 
 <urn:mdciii:1603:16:626:2:505>
@@ -633,7 +633,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:5> ;
     skos:prefLabel "Suai"@eng-Latn ;
-    wdata:q7200235 "TL0505" ;
+    wdata:Q7200235 "TL0505" ;
 .
 
 <urn:mdciii:1603:16:626:2:506>
@@ -645,7 +645,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:5> ;
     skos:prefLabel "Tilomar"@eng-Latn ;
-    wdata:q7200235 "TL0506" ;
+    wdata:Q7200235 "TL0506" ;
 .
 
 <urn:mdciii:1603:16:626:2:507>
@@ -657,7 +657,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:5> ;
     skos:prefLabel "Zumalai"@eng-Latn ;
-    wdata:q7200235 "TL0507" ;
+    wdata:Q7200235 "TL0507" ;
 .
 
 <urn:mdciii:1603:16:626:2:601>
@@ -669,7 +669,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:6> ;
     skos:prefLabel "Vera Cruz"@eng-Latn ;
-    wdata:q7200235 "TL0601" ;
+    wdata:Q7200235 "TL0601" ;
 .
 
 <urn:mdciii:1603:16:626:2:602>
@@ -681,7 +681,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:6> ;
     skos:prefLabel "Nain Feto"@eng-Latn ;
-    wdata:q7200235 "TL0602" ;
+    wdata:Q7200235 "TL0602" ;
 .
 
 <urn:mdciii:1603:16:626:2:603>
@@ -693,7 +693,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:6> ;
     skos:prefLabel "Metinaro"@eng-Latn ;
-    wdata:q7200235 "TL0603" ;
+    wdata:Q7200235 "TL0603" ;
 .
 
 <urn:mdciii:1603:16:626:2:604>
@@ -705,7 +705,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:6> ;
     skos:prefLabel "Atauro"@eng-Latn ;
-    wdata:q7200235 "TL0604" ;
+    wdata:Q7200235 "TL0604" ;
 .
 
 <urn:mdciii:1603:16:626:2:605>
@@ -717,7 +717,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:6> ;
     skos:prefLabel "Dom Aleixo"@eng-Latn ;
-    wdata:q7200235 "TL0605" ;
+    wdata:Q7200235 "TL0605" ;
 .
 
 <urn:mdciii:1603:16:626:2:606>
@@ -729,7 +729,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:6> ;
     skos:prefLabel "Cristo Rei"@eng-Latn ;
-    wdata:q7200235 "TL0606" ;
+    wdata:Q7200235 "TL0606" ;
 .
 
 <urn:mdciii:1603:16:626:2:701>
@@ -741,7 +741,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:7> ;
     skos:prefLabel "Railaco"@eng-Latn ;
-    wdata:q7200235 "TL0701" ;
+    wdata:Q7200235 "TL0701" ;
 .
 
 <urn:mdciii:1603:16:626:2:702>
@@ -753,7 +753,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:7> ;
     skos:prefLabel "Ermera"@eng-Latn ;
-    wdata:q7200235 "TL0702" ;
+    wdata:Q7200235 "TL0702" ;
 .
 
 <urn:mdciii:1603:16:626:2:703>
@@ -765,7 +765,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:7> ;
     skos:prefLabel "Letefoho"@eng-Latn ;
-    wdata:q7200235 "TL0703" ;
+    wdata:Q7200235 "TL0703" ;
 .
 
 <urn:mdciii:1603:16:626:2:704>
@@ -777,7 +777,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:7> ;
     skos:prefLabel "Atsabe"@eng-Latn ;
-    wdata:q7200235 "TL0704" ;
+    wdata:Q7200235 "TL0704" ;
 .
 
 <urn:mdciii:1603:16:626:2:705>
@@ -791,7 +791,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hatolia"@eng-Latn ,
         "Hatulia"@eng-Latn ;
-    wdata:q7200235 "TL0705" ;
+    wdata:Q7200235 "TL0705" ;
 .
 
 <urn:mdciii:1603:16:626:2:801>
@@ -803,7 +803,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:8> ;
     skos:prefLabel "Bazartete"@eng-Latn ;
-    wdata:q7200235 "TL0801" ;
+    wdata:Q7200235 "TL0801" ;
 .
 
 <urn:mdciii:1603:16:626:2:802>
@@ -817,7 +817,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Liquiça"@eng-Latn ,
         "Liquiçá"@eng-Latn ;
-    wdata:q7200235 "TL0802" ;
+    wdata:Q7200235 "TL0802" ;
 .
 
 <urn:mdciii:1603:16:626:2:803>
@@ -829,7 +829,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:8> ;
     skos:prefLabel "Maubara"@eng-Latn ;
-    wdata:q7200235 "TL0803" ;
+    wdata:Q7200235 "TL0803" ;
 .
 
 <urn:mdciii:1603:16:626:2:901>
@@ -841,7 +841,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:9> ;
     skos:prefLabel "Lospalos"@eng-Latn ;
-    wdata:q7200235 "TL0901" ;
+    wdata:Q7200235 "TL0901" ;
 .
 
 <urn:mdciii:1603:16:626:2:902>
@@ -853,7 +853,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:9> ;
     skos:prefLabel "Lautém"@eng-Latn ;
-    wdata:q7200235 "TL0902" ;
+    wdata:Q7200235 "TL0902" ;
 .
 
 <urn:mdciii:1603:16:626:2:903>
@@ -865,7 +865,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:9> ;
     skos:prefLabel "Iliomar"@eng-Latn ;
-    wdata:q7200235 "TL0903" ;
+    wdata:Q7200235 "TL0903" ;
 .
 
 <urn:mdciii:1603:16:626:2:904>
@@ -877,7 +877,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:9> ;
     skos:prefLabel "Luro"@eng-Latn ;
-    wdata:q7200235 "TL0904" ;
+    wdata:Q7200235 "TL0904" ;
 .
 
 <urn:mdciii:1603:16:626:2:905>
@@ -889,6 +889,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:626:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:626:1:9> ;
     skos:prefLabel "Tutuala"@eng-Latn ;
-    wdata:q7200235 "TL0905" ;
+    wdata:Q7200235 "TL0905" ;
 .
 
