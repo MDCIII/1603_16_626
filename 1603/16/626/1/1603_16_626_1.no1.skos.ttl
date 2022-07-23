@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:626()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:626:1:1" ;
     skos:prefLabel "Ainaro"@eng-Latn ;
-    wdata:q7200235 "TL01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -52,7 +50,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:626:1:10" ;
     skos:prefLabel "Manufahi"@eng-Latn ;
-    wdata:q7200235 "TL10" ;
 .
 
 <urn:mdciii:1603:16:626:1:11>
@@ -61,7 +58,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:626:1:11" ;
     skos:prefLabel "Manatuto"@eng-Latn ;
-    wdata:q7200235 "TL11" ;
 .
 
 <urn:mdciii:1603:16:626:1:12>
@@ -70,7 +66,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:626:1:12" ;
     skos:prefLabel "Oecussi"@eng-Latn ;
-    wdata:q7200235 "TL12" ;
 .
 
 <urn:mdciii:1603:16:626:1:13>
@@ -79,7 +74,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:626:1:13" ;
     skos:prefLabel "Viqueque"@eng-Latn ;
-    wdata:q7200235 "TL13" ;
 .
 
 <urn:mdciii:1603:16:626:1:2>
@@ -88,7 +82,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:626:1:2" ;
     skos:prefLabel "Aileu"@eng-Latn ;
-    wdata:q7200235 "TL02" ;
 .
 
 <urn:mdciii:1603:16:626:1:3>
@@ -97,7 +90,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:626:1:3" ;
     skos:prefLabel "Baucau"@eng-Latn ;
-    wdata:q7200235 "TL03" ;
 .
 
 <urn:mdciii:1603:16:626:1:4>
@@ -106,7 +98,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:626:1:4" ;
     skos:prefLabel "Bobonaro"@eng-Latn ;
-    wdata:q7200235 "TL04" ;
 .
 
 <urn:mdciii:1603:16:626:1:5>
@@ -115,7 +106,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:626:1:5" ;
     skos:prefLabel "Covalima"@eng-Latn ;
-    wdata:q7200235 "TL05" ;
 .
 
 <urn:mdciii:1603:16:626:1:6>
@@ -124,7 +114,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:626:1:6" ;
     skos:prefLabel "Dili"@eng-Latn ;
-    wdata:q7200235 "TL06" ;
 .
 
 <urn:mdciii:1603:16:626:1:7>
@@ -133,7 +122,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:626:1:7" ;
     skos:prefLabel "Ermera"@eng-Latn ;
-    wdata:q7200235 "TL07" ;
 .
 
 <urn:mdciii:1603:16:626:1:8>
@@ -142,7 +130,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:626:1:8" ;
     skos:prefLabel "Liquiçá"@eng-Latn ;
-    wdata:q7200235 "TL08" ;
 .
 
 <urn:mdciii:1603:16:626:1:9>
@@ -151,6 +138,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:626:1:9" ;
     skos:prefLabel "Lautém"@eng-Latn ;
-    wdata:q7200235 "TL09" ;
 .
 
